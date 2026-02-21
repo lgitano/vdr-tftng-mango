@@ -13,7 +13,8 @@
    var varEPGimagesPath_3 = "/video0/epgimages/";
    var varEPGimagesPath_4 = "/ramdisk/epgimages/";
    var varImagesPath_1 = "/video0/images/";
-   var chanLogos = "/usr/share/vdr-skins/skinnopacity/";
+   var chanLogos = "/usr/share/vdr/channellogos/";
+//   var chanLogos = "/usr/share/vdr-skins/skinnopacity/";
 //   var chanLogos = "/usr/share/vdr-skins/smal_logos_graphtftng/";
 
 //***************************************************************************
